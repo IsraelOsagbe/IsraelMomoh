@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Israel Osagbe Momoh</h1>
-<h3 align="center">A passionate Petroleum and Geothermal Engineer. I apply Data and Conventional Technique to Solving Petroleum and Geothermal energy related challenges.</h3>
+<h3 align="center">A passionate Petroleum and Geothermal Engineer. I apply Data and Conventional Techniques to Solving Petroleum and Geothermal energy-related challenges.</h3>
 <img align = "center" alt="Sucker Rod Pump" width="400" src="https://media1.giphy.com/media/sTkPZBD1ZBPqw/giphy-downsized-large.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israelosagbe&label=Profile%20views&color=0e75b6&style=flat" alt="israelosagbe" /> </p>
 
-- 🔭 I’m currently working on **Permeability Reversibilty Test on Granite Rocks under Ionic Liquid Flow Conditions**
+- 🔭 I’m currently working on **Permeability Reversibility Test on Granite Rocks under Ionic Liquid Flow Conditions**
 
-- 🌱 I’m currently learning **Rock Fractures and Fracture Flow Behavior, DFN Creation, Python for Production Dashboard Creation, Python for Reservoir Pore Pressure Estimation.**
+- 🌱 I’m currently learning **Rock Fractures and Fracture Flow Behavior, DFN Creation, Python for Production Dashboard Creation, and Python for Reservoir Pore Pressure Estimation.**
 
 - 👯 I’m looking to collaborate on **Creating a DFN Model from Microseismic Data**
 
 - 🤝 I’m looking for help with **Internship that gives me the opportunity to apply myself and grow my experience in the Industry**
 
-- 💬 Ask me about **Rocks Fractures, Petroleum Production, Nodal Analysis, Geomechanics, Geothermal Energy.**
+- 💬 Ask me about **Rocks Fractures, Petroleum Production, Nodal Analysis, Geomechanics, and Geothermal Energy.**
 
 - 📫 How to reach me **israelmomoh7@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/israelomomoh](linkedin.com/in/israelomomoh)
 
-- ⚡ Fun fact **I Dance to myself at the front of my Bedroom Mirror**
+- ⚡ Fun fact **I Dance to myself in front of my Bedroom Mirror**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
